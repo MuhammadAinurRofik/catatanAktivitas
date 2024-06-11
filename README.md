@@ -1,4 +1,4 @@
-# sqlite_flutter_crud
+# sqlite_flutter_crud_activity
 
 A new Flutter project.
 
